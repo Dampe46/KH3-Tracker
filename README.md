@@ -1,4 +1,4 @@
-# KH3-Tracker
+# kh3_maptracker_dampe
 
 
 Item tracker made for use with the Kingdom Hearts 3 randomizer. 
