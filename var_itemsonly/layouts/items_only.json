@@ -1,0 +1,29 @@
+﻿{
+"item_grid": {
+  "type": "itemgrid",
+  "h_alignment": "center",
+  "item_margin": "1,2",
+  "item_size": "75,75",
+  "background":  "#949494", 
+  "rows": [
+    [ "Olympus", "twilighttown", "toybox", "Corona", "Monstropolis", "Arendelle" ],
+    [ "The Caribbean", "San Fransokyo", "darkworld", "keyblade graveyard", "Remind", "flan1"],
+    [ "fire1", "blizzard1", "thunder1", "cure1", "aero1", "water1"],
+    [ "meow_wow", "stitch", "ariel", "simba", "ralph", "secretreports"],
+    [ "Proof_of_Times_Past", "Proof_of_Promises", "Proof_of_Fantasies", "data1" ,"battlegates1", "lucky_emblem1"],
+    [ "sora", "Classic Kingdom", "Once More", "Second Chance"]
+  ]
+},
+    "tracker_default": {
+	  "type": "array",
+  	"width": 400,
+	  "margin": "1,1,1,1",
+	  "content": [
+		  { 
+			  "type": "layout",
+			  "key": "item_grid"
+		  }
+	  ]
+  }
+}
+  

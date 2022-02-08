@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Fire",
+    "type": "progressive",
+    "stages": [
+      {
+        "img": "images/fire.png",
+        "codes": "fire1"
+      },
+      {
+        "img": "images/fire.png",
+        "img_mods": "overlay|images/two.png"
+      },
+      {
+        "img": "images/fire.png",
+        "img_mods": "overlay|images/max.png"
+      }
+    ]
+  },
+  {
+    "name": "Blizzard",
+    "type": "progressive",
+    "stages": [
+      {
+        "img": "images/blizzard.png",
+        "codes": "blizzard1"
+      },
+      {
+        "img": "images/blizzard.png",
+        "img_mods": "overlay|images/two.png"
+      },
+      {
+        "img": "images/blizzard.png",
+        "img_mods": "overlay|images/max.png"
+      }
+    ]
+  },
+  {
+    "name": "Thunder",
+    "type": "progressive",
+    "stages": [
+      {
+        "img": "images/thunder.png",
+        "codes": "thunder1"
+      },
+      {
+        "img": "images/thunder.png",
+        "img_mods": "overlay|images/two.png"
+      },
+      {
+        "img": "images/thunder.png",
+        "img_mods": "overlay|images/max.png"
+      }
+    ]
+  },
+  {
+    "name": "Cure",
+    "type": "progressive",
+    "stages": [
+      {
+        "img": "images/cure.png",
+        "codes": "cure1"
+      },
+      {
+        "img": "images/cure.png",
+        "img_mods": "overlay|images/two.png"
+      },
+      {
+        "img": "images/cure.png",
+        "img_mods": "overlay|images/max.png"
+      }
+    ]
+  },
+  {
+    "name": "Water",
+    "type": "progressive",
+    "stages": [
+      {
+        "img": "images/water.png",
+        "codes": "water1"
+      },
+      {
+        "img": "images/water.png",
+        "img_mods": "overlay|images/two.png"
+      },
+      {
+        "img": "images/water.png",
+        "img_mods": "overlay|images/max.png"
+      }
+    ]
+  },
+  {
+    "name": "Aero",
+    "type": "progressive",
+    "stages": [
+      {
+        "img": "images/aero.png",
+        "codes": "aero1"
+      },
+      {
+        "img": "images/aero.png",
+        "img_mods": "overlay|images/two.png"
+      },
+      {
+        "img": "images/aero.png",
+        "img_mods": "overlay|images/max.png"
+      }
+    ]
+  }
+]

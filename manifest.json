@@ -1,0 +1,13 @@
+﻿{
+  "name": "KH3 Map Tracker",
+  "game_name": "Kingdom Hearts III",
+  "platform": "PC",
+  "package_version": "1.0.0.0",
+  "package_uid": "kh3_maptracker_dampe",
+  "author": "Dampe, Klariodon, Televo",
+  "variants": {
+    "itemsonly": {
+      "display_name": "Items Only"
+    }
+  }
+}

@@ -1,0 +1,110 @@
+﻿[
+  {
+    "name": "SimulatedTT",
+    "location_size": 35,
+    "location_border_thickness": 5,
+    "img": "images/simulatedmap.png"
+  },
+  {
+    "name": "TwilightTown",
+    "location_size": 35,
+    "location_border_thickness": 5,
+    "img": "images/twilighttownmap.png"
+  },
+  {
+    "name": "HollowBastion",
+    "location_size": 35,
+    "location_border_thickness": 5,
+    "img": "images/hollowbastionmap.png"
+  },
+  {
+    "name": "Cavern",
+    "location_size": 35,
+    "location_border_thickness": 5,
+    "img": "images/CoRMap.png"
+  },
+  {
+    "name": "SpaceParanoids",
+    "location_size": 35,
+    "location_border_thickness": 5,
+    "img": "images/spaceparanoidsmap.png"
+  },
+  {
+    "name": "AcreWood",
+    "location_size": 35,
+    "location_border_thickness": 5,
+    "img": "images/acrewoodmap.png"
+  },
+  {
+    "name": "LandOfDragons",
+    "location_size": 35,
+    "location_border_thickness": 5,
+    "img": "images/landofdragonsmap.png"
+  },
+  {
+    "name": "BeastsCastle",
+    "location_size": 35,
+    "location_border_thickness": 5,
+    "img": "images/beastscastlemap.png"
+  },
+  {
+    "name": "Olympus",
+    "location_size": 35,
+    "location_border_thickness": 5,
+    "img": "images/olympusmap.png"
+  },
+  {
+    "name": "DisneyCastle",
+    "location_size": 35,
+    "location_border_thickness": 5,
+    "img": "images/disneycastlemap.png"
+  },
+  {
+    "name": "TimelessRiver",
+    "location_size": 35,
+    "location_border_thickness": 5,
+    "img": "images/timelessrivermap.png"
+  },
+  {
+    "name": "Atlantica",
+    "location_size": 35,
+    "location_border_thickness": 5,
+    "img": "images/atlanticamap.png"
+  },
+  {
+    "name": "Agrabah",
+    "location_size": 35,
+    "location_border_thickness": 5,
+    "img": "images/agrabahmap.png"
+  },
+  {
+    "name": "HalloweenTown",
+    "location_size": 35,
+    "location_border_thickness": 5,
+    "img": "images/halloweentownmap.png"
+  },
+  {
+    "name": "PortRoyal",
+    "location_size": 35,
+    "location_border_thickness": 5,
+    "img": "images/portroyalmap.png"
+  },
+  {
+    "name": "PrideLands",
+    "location_size": 35,
+    "location_border_thickness": 5,
+    "img": "images/pridelandsmap.png"
+  },
+  {
+    "name": "TWTNWCity",
+    "location_size": 35,
+    "location_border_thickness": 5,
+    "img": "images/twtnwcitymap.png"
+  },
+  {
+    "name": "TWTNWCastle",
+    "location_size": 35,
+    "location_border_thickness": 5,
+    "img": "images/twtnwcastlemap.png"
+  }
+]

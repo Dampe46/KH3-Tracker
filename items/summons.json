@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Ariel",
+    "type": "toggle",
+    "img": "images/ariel.png",
+    "codes": "ariel"
+  },
+  {
+    "name": "Meow Wow",
+    "type": "toggle",
+    "img": "images/meow_wow.png",
+    "codes": "meow_wow"
+  },
+  {
+    "name": "Stitch",
+    "type": "toggle",
+    "img": "images/stitch.png",
+    "codes": "stitch"
+  },
+  {
+    "name": "Simba",
+    "type": "toggle",
+    "img": "images/simba.png",
+    "codes": "simba"
+  },
+  {
+    "name": "Ralph",
+    "type": "toggle",
+    "img": "images/ralph.png",
+    "codes": "ralph"
+  }
+]

@@ -1,0 +1,787 @@
+[
+ 
+  {
+    "name": "Lucky Emblems",
+    "type": "progressive",
+    "stages": [
+      {
+        "img": "images/lucky_emblem.png",
+ 	"codes": "lucky_emblem1"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/two.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/three.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/four.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/five.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/six.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/seven.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/eight.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/nine.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/ten.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/11.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/12.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/13.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/14.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/15.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/16.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/17.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/18.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/19.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/20.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/21.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/22.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/23.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/23.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/24.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/25.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/26.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/27.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/28.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/29.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/30.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/31.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/32.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/33.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/34.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/35.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/36.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/37.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/38.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/39.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/40.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/41.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/42.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/43.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/44.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/45.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/46.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/47.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/48.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/49.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/50.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/51.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/52.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/53.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/54.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/55.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/56.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/57.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/58.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/59.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/60.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/61.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/62.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/63.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/64.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/65.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/66.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/67.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/68.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/69.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/70.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/71.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/72.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/73.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/74.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/75.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/76.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/77.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/78.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/79.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/80.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/81.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/82.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/83.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/84.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/85.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/86.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/87.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/88.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/89.png"
+      },
+      {
+        "img": "images/lucky_emblem.png",
+        "img_mods": "overlay|images/90.png"
+      }
+    ]
+  },
+  {
+    "name": "Flans",
+    "type": "progressive",
+    "stages": [
+      {
+        "img": "images/Flantasic_Seven.png",
+ 	"codes": "flan1"
+      },
+      {
+        "img": "images/Flantasic_Seven.png",
+        "img_mods": "overlay|images/two.png"
+      },
+      {
+        "img": "images/Flantasic_Seven.png",
+        "img_mods": "overlay|images/three.png"
+      },
+      {
+        "img": "images/Flantasic_Seven.png",
+        "img_mods": "overlay|images/four.png"
+      },
+      {
+        "img": "images/Flantasic_Seven.png",
+        "img_mods": "overlay|images/five.png"
+      },
+      {
+        "img": "images/Flantasic_Seven.png",
+        "img_mods": "overlay|images/six.png"
+      },
+      {
+        "img": "images/Flantasic_Seven.png",
+        "img_mods": "overlay|images/seven.png"
+      }
+    ]
+  },
+  {
+    "name": "Classic Kingdom",
+    "type": "progressive",
+    "stages": [
+      {
+        "img": "images/Classic_Kingdom.png",
+ 	"codes": "Classic Kingdom"
+      },
+      {
+        "img": "images/Classic_Kingdom.png",
+        "img_mods": "overlay|images/two.png"
+      },
+      {
+        "img": "images/Classic_Kingdom.png",
+        "img_mods": "overlay|images/three.png"
+      },
+      {
+        "img": "images/Classic_Kingdom.png",
+        "img_mods": "overlay|images/four.png"
+      },
+      {
+        "img": "images/Classic_Kingdom.png",
+        "img_mods": "overlay|images/five.png"
+      },
+      {
+        "img": "images/Classic_Kingdom.png",
+        "img_mods": "overlay|images/six.png"
+      },
+      {
+        "img": "images/Classic_Kingdom.png",
+        "img_mods": "overlay|images/six.png"
+      },
+      {
+        "img": "images/Classic_Kingdom.png",
+        "img_mods": "overlay|images/seven.png"
+      },
+      {
+        "img": "images/Classic_Kingdom.png",
+        "img_mods": "overlay|images/eight.png"
+      },
+      {
+        "img": "images/Classic_Kingdom.png",
+        "img_mods": "overlay|images/nine.png"
+      },
+      {
+        "img": "images/Classic_Kingdom.png",
+        "img_mods": "overlay|images/ten.png"
+      },
+      {
+        "img": "images/Classic_Kingdom.png",
+        "img_mods": "overlay|images/11.png"
+      },
+      {
+        "img": "images/Classic_Kingdom.png",
+        "img_mods": "overlay|images/12.png"
+      },
+      {
+        "img": "images/Classic_Kingdom.png",
+        "img_mods": "overlay|images/13.png"
+      },
+      {
+        "img": "images/Classic_Kingdom.png",
+        "img_mods": "overlay|images/14.png"
+      },
+      {
+        "img": "images/Classic_Kingdom.png",
+        "img_mods": "overlay|images/15.png"
+      },
+      {
+        "img": "images/Classic_Kingdom.png",
+        "img_mods": "overlay|images/16.png"
+      },
+      {
+        "img": "images/Classic_Kingdom.png",
+        "img_mods": "overlay|images/17.png"
+      },
+      {
+        "img": "images/Classic_Kingdom.png",
+        "img_mods": "overlay|images/18.png"
+      },
+      {
+        "img": "images/Classic_Kingdom.png",
+        "img_mods": "overlay|images/19.png"
+      },
+      {
+        "img": "images/Classic_Kingdom.png",
+        "img_mods": "overlay|images/20.png"
+      },
+      {
+        "img": "images/Classic_Kingdom.png",
+        "img_mods": "overlay|images/21.png"
+      },
+      {
+        "img": "images/Classic_Kingdom.png",
+        "img_mods": "overlay|images/22.png"
+      },
+      {
+        "img": "images/Classic_Kingdom.png",
+        "img_mods": "overlay|images/23.png"
+      }
+    ]
+  },
+  {
+    "name": "Data Fights",
+    "type": "progressive",
+    "stages": [
+      {
+        "img": "images/data_org.png",
+ 	"codes": "data1"
+      },
+      {
+        "img": "images/data_org.png",
+        "img_mods": "overlay|images/two.png"
+      },
+      {
+        "img": "images/data_org.png",
+        "img_mods": "overlay|images/three.png"
+      },
+      {
+        "img": "images/data_org.png",
+        "img_mods": "overlay|images/four.png"
+      },
+      {
+        "img": "images/data_org.png",
+        "img_mods": "overlay|images/five.png"
+      },
+      {
+        "img": "images/data_org.png",
+        "img_mods": "overlay|images/six.png"
+      },
+      {
+        "img": "images/data_org.png",
+        "img_mods": "overlay|images/seven.png"
+      },
+      {
+        "img": "images/data_org.png",
+        "img_mods": "overlay|images/eight.png"
+      },
+      {
+        "img": "images/data_org.png",
+        "img_mods": "overlay|images/nine.png"
+      },
+      {
+        "img": "images/data_org.png",
+        "img_mods": "overlay|images/ten.png"
+      },
+      {
+        "img": "images/data_org.png",
+        "img_mods": "overlay|images/11.png"
+      },
+      {
+        "img": "images/data_org.png",
+        "img_mods": "overlay|images/12.png"
+      },
+      {
+        "img": "images/data_org.png",
+        "img_mods": "overlay|images/13.png"
+      }
+    ]
+  },
+  {
+    "name": "battlegates",
+    "type": "progressive",
+    "stages": [
+      {
+        "img": "images/battlegates.png",
+ 	"codes": "battlegates1"
+      },
+      {
+        "img": "images/battlegates.png",
+        "img_mods": "overlay|images/two.png"
+      },
+      {
+        "img": "images/battlegates.png",
+        "img_mods": "overlay|images/three.png"
+      },
+      {
+        "img": "images/battlegates.png",
+        "img_mods": "overlay|images/four.png"
+      },
+      {
+        "img": "images/battlegates.png",
+        "img_mods": "overlay|images/five.png"
+      },
+      {
+        "img": "images/battlegates.png",
+        "img_mods": "overlay|images/six.png"
+      },
+      {
+        "img": "images/dbattlegates.png",
+        "img_mods": "overlay|images/seven.png"
+      },
+      {
+        "img": "images/battlegates.png",
+        "img_mods": "overlay|images/eight.png"
+      },
+      {
+        "img": "images/battlegates.png",
+        "img_mods": "overlay|images/nine.png"
+      },
+      {
+        "img": "images/battlegates.png",
+        "img_mods": "overlay|images/ten.png"
+      },
+      {
+        "img": "images/battlegates.png",
+        "img_mods": "overlay|images/11.png"
+      },
+      {
+        "img": "images/battlegates.png",
+        "img_mods": "overlay|images/12.png"
+      },
+      {
+        "img": "images/battlegates.png",
+        "img_mods": "overlay|images/13.png"
+      },
+      {
+        "img": "images/battlegates.png",
+        "img_mods": "overlay|images/14.png"
+      }
+    ]
+  },
+  {
+    "name": "Second Chance",
+    "type": "toggle",
+    "img": "images/second_chance.png",
+    "codes": "Second Chance"
+  },
+  {
+    "name": "Withstand Combo",
+    "type": "toggle",
+    "img": "images/once_more.png",
+    "codes": "Once More"
+  },
+  {
+    "name": "Proof of Times Past",
+    "type": "toggle",
+    "img": "images/Proof_of_Times_Past.png",
+    "codes": "Proof_of_Times_Past"
+  },
+  {
+    "name": "Proof of Promises",
+    "type": "toggle",
+    "img": "images/Proof_of_Promises.png",
+    "codes": "Proof_of_Promises"
+  },
+  {
+    "name": "Proof of Fantasies",
+    "type": "toggle",
+    "img": "images/Proof_of_Fantasies.png",
+    "codes": "Proof_of_Fantasies"
+  },
+  {
+    "name": "Secret Reports",
+    "type": "progressive",
+    "stages":[
+      {
+        "img": "images/Reports.png",
+        "codes": "secretreports"
+      },
+      {
+        "img": "images/Reports.png",
+        "img_mods": "overlay|images/one.png"
+      },
+      {
+        "img": "images/Reports.png",
+        "img_mods": "overlay|images/two.png"
+      },
+      {
+        "img": "images/Reports.png",
+        "img_mods": "overlay|images/three.png"
+      },
+      {
+        "img": "images/Reports.png",
+        "img_mods": "overlay|images/four.png"
+      },
+      {
+        "img": "images/Reports.png",
+        "img_mods": "overlay|images/five.png"
+      },
+      {
+        "img": "images/Reports.png",
+        "img_mods": "overlay|images/six.png"
+      },
+      {
+        "img": "images/Reports.png",
+        "img_mods": "overlay|images/seven.png"
+      },
+      {
+        "img": "images/Reports.png",
+        "img_mods": "overlay|images/eight.png"
+      },
+      {
+        "img": "images/Reports.png",
+        "img_mods": "overlay|images/nine.png"
+      },
+      {
+        "img": "images/Reports.png",
+        "img_mods": "overlay|images/ten.png"
+      },
+      {
+        "img": "images/Reports.png",
+        "img_mods": "overlay|images/11.png"
+      },
+      {
+        "img": "images/Reports.png",
+        "img_mods": "overlay|images/12.png"
+      },
+      {
+        "img": "images/Reports.png",
+        "img_mods": "overlay|images/13.png"
+      }
+    ]
+  },
+  {
+    "name": "Soras Level",
+    "type": "progressive",
+    "stages":[
+      {
+        "img": "images/sora.png",
+        "codes": "sora"
+      },
+      {
+        "img": "images/sora.png",
+        "img_mods": "overlay|images/five.png"
+      },
+      {
+        "img": "images/sora.png",
+        "img_mods": "overlay|images/15.png"
+      },
+      {
+        "img": "images/sora.png",
+        "img_mods": "overlay|images/20.png"
+      },
+      {
+        "img": "images/sora.png",
+        "img_mods": "overlay|images/25.png"
+      },
+      {
+        "img": "images/sora.png",
+        "img_mods": "overlay|images/30.png"
+      },
+      {
+        "img": "images/sora.png",
+        "img_mods": "overlay|images/35.png"
+      },
+      {
+        "img": "images/sora.png",
+        "img_mods": "overlay|images/40.png"
+      },
+      {
+        "img": "images/sora.png",
+        "img_mods": "overlay|images/45.png"
+      },
+      {
+        "img": "images/sora.png",
+        "img_mods": "overlay|images/50.png"
+      },
+      {
+        "img": "images/sora.png",
+        "img_mods": "overlay|images/60.png"
+      },
+      {
+        "img": "images/sora.png",
+        "img_mods": "overlay|images/70.png"
+      },
+      {
+        "img": "images/sora.png",
+        "img_mods": "overlay|images/80.png"
+      },
+      {
+        "img": "images/sora.png",
+        "img_mods": "overlay|images/90.png"
+      },
+      {
+        "img": "images/sora.png",
+        "img_mods": "overlay|images/99.png"
+      }
+    ]
+  }
+]

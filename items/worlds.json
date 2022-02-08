@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Arendelle",
+    "type": "toggle",
+    "img": "images/Arendelle.png",
+    "codes": "Arendelle"
+  },
+  {
+    "name": "Kingdom of Corona",
+    "type": "toggle",
+    "img": "images/Kingdom_of_Corona.png",
+    "codes": "Corona"
+  },
+  {
+    "name": "Monstropolis",
+    "type": "toggle",
+    "img": "images/Monstropolis.png",
+    "codes": "Monstropolis"
+  },
+  {
+    "name": "Olympus",
+    "type": "toggle",
+    "img": "images/Olympus.png",
+    "codes": "Olympus"
+  },
+  {
+    "name": "Remind",
+    "type": "toggle",
+    "img": "images/remind.png",
+    "codes": "Remind"
+  },
+  {
+    "name": "San Fransokyo",
+    "type": "toggle",
+    "img": "images/San_Fransokyo.png",
+    "codes": "San Fransokyo"
+  },
+  {
+    "name": "The Caribbean",
+    "type": "toggle",
+    "img": "images/The_Caribbean.png",
+    "codes": "The Caribbean"
+  },
+  {
+    "name": "Toybox",
+    "type": "toggle",
+    "img": "images/toybox.png",
+    "codes": "toybox"
+  },
+  {
+    "name": "Twilight Town",
+    "type": "toggle",
+    "img": "images/twilight_town.png",
+    "codes": "twilighttown"
+  },
+  {
+    "name": "Darkworld",
+    "type": "toggle",
+    "img": "images/dark_world.png",
+    "codes": "darkworld"
+  },
+  {
+    "name": "Keyblade Graveyard",
+    "type": "toggle",
+    "img": "images/keyblade_graveyard.png",
+    "codes": "keyblade graveyard"
+  }
+]
